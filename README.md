@@ -1,6 +1,7 @@
 # Fantasy Top Daily Check In Script 
 
 Auto Daily Claim for https://www.fantasy.top/rewards
+
 Follow twitter account @stometaverse for updates 
 
 关注推特 @stometaverse 会持续分享web3相关的信息！ 
