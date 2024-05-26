@@ -43,3 +43,7 @@ python main.py
 # 如何有依赖确实的问题 
 pip install xxx
 ```
+
+# Suggestions 
+1. 建议使用PM2 来对程序进行管理
+2. 建议使用dotenv 来管理cookie 和token信息。 一定注意保护这两个信息，不要把这种关键且敏感的信息推到git repo上
