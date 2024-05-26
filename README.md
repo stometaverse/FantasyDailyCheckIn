@@ -21,7 +21,8 @@ Follow twitter account @stometaverse for updates
 7. 找到authorize请求 
 8. 在header栏当中找到对应的cookie  复制到AUTH_TOKEN_COOKIE处即可
 
-![Screenshot 2024-05-26 at 13.14.45.png](..%2F..%2FDesktop%2FScreenshot%202024-05-26%20at%2013.14.45.png)
+<img width="1721" alt="Screenshot 2024-05-26 at 13 14 45" src="https://github.com/stometaverse/FantasyDailyCheckIn/assets/170246750/e53ea1ab-0310-4fd9-a489-a31e89769dbc">
+
 
 ## Step 2. 拿到属于你的请求payload（为了动态生成authorization token）
 1. 和第一步一样的窗口
@@ -29,7 +30,8 @@ Follow twitter account @stometaverse for updates
 3. 找到请求，点击到Payload 
 4. 选择copy object，把这一个对象粘贴到代码的PAYLOAD_FOR_AUTH_TOKEN
 
-![Screenshot 2024-05-26 at 17.05.36.png](..%2F..%2FDesktop%2FScreenshot%202024-05-26%20at%2017.05.36.png)
+![Screenshot 2024-05-26 at 17 05 36](https://github.com/stometaverse/FantasyDailyCheckIn/assets/170246750/7cc21ed8-bd72-41ec-859e-f419982d9455)
+
 ## Step 3. 拿到你的钱包地址 
 1. PAYLOAD_FOR_AUTH_TOKEN 当中包含你的钱包地址
 2. 复制这个地址到PAYLOAD_FOR_DAILY_QUEST 的id 的部分即可
